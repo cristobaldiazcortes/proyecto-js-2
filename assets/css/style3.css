@@ -9,7 +9,7 @@ p {
     
 }
 img {
-    width: 40%;
+    width: 30%;
     border: solid 3px aliceblue;
 }
 .flex-container {
@@ -17,12 +17,14 @@ img {
     flex-direction: column;
     justify-content: center;
     height: 100vh;
+    
 }
 .titulo {
     display: flex;
     flex-direction: column;
     align-items: center;
     color: black;
+    padding-top: 5%;
 }
 p.titulo-mensaje {
     color: gold;
